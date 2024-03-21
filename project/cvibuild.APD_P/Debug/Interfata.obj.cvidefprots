@@ -1,0 +1,95 @@
+[FitrOrdin1]
+Class="Function"
+Prototype="double *FitrOrdin1(double alpha);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:34:9"
+
+[mediere]
+Class="Function"
+Prototype="double *mediere(int n);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:40:9"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:61:5"
+
+[Main_uir]
+Class="Function"
+Prototype="int Main_uir(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:78:17"
+
+[LOAD_FC]
+Class="Function"
+Prototype="int LOAD_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:96:17"
+
+[RAW_DATA_FC]
+Class="Function"
+Prototype="int RAW_DATA_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:160:17"
+
+[CB_PREV_FC]
+Class="Function"
+Prototype="int CB_PREV_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:172:17"
+
+[CB_NEXT_FC]
+Class="Function"
+Prototype="int CB_NEXT_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:192:17"
+
+[start_timer_FC]
+Class="Function"
+Prototype="int start_timer_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:212:17"
+
+[stop_timer_FC]
+Class="Function"
+Prototype="int stop_timer_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:224:17"
+
+[SELECTARE_FILTRU]
+Class="Function"
+Prototype="int SELECTARE_FILTRU(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:236:17"
+
+[APLICA_FC]
+Class="Function"
+Prototype="int APLICA_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:273:17"
+
+[SAVE_FC]
+Class="Function"
+Prototype="int SAVE_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:294:17"
+
+[GEN_ANVELOPA_FC]
+Class="Function"
+Prototype="int GEN_ANVELOPA_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:323:17"
+
+[main_panel_2]
+Class="Function"
+Prototype="int main_panel_2(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:344:17"
+
+[SWITCH_PANEL_FC]
+Class="Function"
+Prototype="int SWITCH_PANEL_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:362:17"
+
+[SPECTRU_FC]
+Class="Function"
+Prototype="int SPECTRU_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:388:17"
+
+[APLICA_FC2]
+Class="Function"
+Prototype="int APLICA_FC2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:451:17"
+
+[SAVE_FILT_FC]
+Class="Function"
+Prototype="int SAVE_FILT_FC(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\apd\proiect\etapa1-20231026T111656Z-001\etapa1\Interfata.c:560:17"
+
